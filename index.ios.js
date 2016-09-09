@@ -4,7 +4,7 @@
 
 
 
-  How to Share Data in a
+  How to Share Data from a
   React Native App
 
   A Recipe from Code Cookbook
