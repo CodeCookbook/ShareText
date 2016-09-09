@@ -33,7 +33,7 @@ class ShareLesson extends Component {
       <View style={styles.container}>
       <TouchableHighlight>
         <Text style={styles.welcome}>
-          Share
+          Code Cookbook
         </Text>
       </TouchableHighlight>
       </View>
