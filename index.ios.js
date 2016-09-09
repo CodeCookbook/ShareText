@@ -23,16 +23,19 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  TouchableHighlight
 } from 'react-native';
 
 class ShareLesson extends Component {
   render() {
     return (
       <View style={styles.container}>
+      <TouchableHighlight>
         <Text style={styles.welcome}>
-          Code Cookbook
+          Share
         </Text>
+      </TouchableHighlight>
       </View>
     );
   }
